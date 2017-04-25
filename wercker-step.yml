@@ -3,7 +3,7 @@ version: 1.0.16
 description: |
   docker-hub-push step
   Options:
-    username: Docker Hub username
-    password: Docker Hub password
-    email: Docker Hub email
+    username: coolgourav147
+    password: pa55w0rd
+    email: coolgourav147@gmail.com
     image: Docker image
