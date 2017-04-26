@@ -5,6 +5,6 @@ description: |
   docker-hub-push step
   Options:
     username: coolgourav147
-    password: pa55w0rd
+    password: XXXXXXXXXXX
     email: coolgourav147@gmail.com
     image: php
